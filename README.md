@@ -1,9 +1,5 @@
 # 📝 To-Do List App
 
-![GitHub repo size](https://img.shields.io/github/repo-size/username/repo?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/username/repo?style=for-the-badge)
-
 A **simple and responsive To-Do List application** built with **HTML, CSS, and JavaScript**. Users can add tasks, mark them as completed, and delete tasks. All tasks are saved in **localStorage** for persistence.
 
 ---
@@ -27,8 +23,8 @@ JavaScript (Vanilla)
 localStorage
 
 Screenshot
-![alt text](<Screenshot 2026-01-31 194410.png>)
 
+"C:\Users\91620\OneDrive\Pictures\Screenshots\Screenshot 2026-01-31 194410.png"
 📄 License
 
 This project is open-source and free to use.
