@@ -23,8 +23,8 @@ JavaScript (Vanilla)
 localStorage
 
 Screenshot
+<img width="1776" height="814" alt="Screenshot 2026-01-31 194410" src="https://github.com/user-attachments/assets/2865a8ca-b53f-42d8-9972-ee946fc973ae" />
 
-"C:\Users\91620\OneDrive\Pictures\Screenshots\Screenshot 2026-01-31 194410.png"
 📄 License
 
 This project is open-source and free to use.
